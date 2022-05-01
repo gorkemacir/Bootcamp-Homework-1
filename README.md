@@ -1,9 +1,9 @@
 # Bootcamp-Homework-1
 
-## Gains
+## Goals
 >>According to the CRM Database UML Diagram given in the example, it is aimed to create relationships by creating the database in MSSQL.<br/>
 >>Gaining the habit of reading Class Diagram and UML diagrams, establishing database relations (Primary key, foreign key etc...)
-## Made
+## Completed
 >>The database was created according to the CRM database model example in the picture.<br/>
 >>Relationship between tables has been established.<br/>
 >>The .bak, .sql format and MSSQL database diagram are loaded.<br/>
